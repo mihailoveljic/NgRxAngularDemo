@@ -1,4 +1,5 @@
 - name: Angular Full CI
+  on: push
   # You may pin to the exact commit or the version.
   # uses: colbyhill21/angular-full-ci@a3489087f6a715db335078f999c01d422a254a6c
   uses: colbyhill21/angular-full-ci@v1.0
